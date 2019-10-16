@@ -11,7 +11,7 @@ import (
 
 	"github.com/issue9/assert"
 
-	"github.com/issue9/logs/v2/writers"
+	"github.com/icarephone/logs/writers"
 )
 
 var (

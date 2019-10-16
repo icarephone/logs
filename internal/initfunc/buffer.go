@@ -8,8 +8,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/issue9/logs/v2/config"
-	"github.com/issue9/logs/v2/writers"
+	"github.com/icarephone/logs/config"
+	"github.com/icarephone/logs/writers"
 )
 
 // Buffer 是 writers.Buffer 的初始化函数

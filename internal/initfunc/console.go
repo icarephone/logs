@@ -11,8 +11,8 @@ import (
 
 	"github.com/issue9/term/colors"
 
-	"github.com/issue9/logs/v2/config"
-	"github.com/issue9/logs/v2/writers"
+	"github.com/icarephone/logs/config"
+	"github.com/icarephone/logs/writers"
 )
 
 var consoleOutputMap = map[string]*os.File{

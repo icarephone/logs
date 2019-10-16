@@ -1,4 +1,4 @@
-module github.com/issue9/logs/v2
+module github.com/icarephone/logs
 
 require (
 	github.com/issue9/assert v1.3.2

@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/issue9/logs/v2/config"
-	"github.com/issue9/logs/v2/internal/initfunc"
-	"github.com/issue9/logs/v2/writers"
+	"github.com/icarephone/logs/config"
+	"github.com/icarephone/logs/internal/initfunc"
+	"github.com/icarephone/logs/writers"
 )
 
 // WriterInitializer io.Writer 实例的初始化函数。

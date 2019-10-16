@@ -7,7 +7,7 @@ package main
 import (
 	"os"
 
-	"github.com/issue9/logs/v2"
+	"github.com/icarephone/logs"
 )
 
 func main() {
